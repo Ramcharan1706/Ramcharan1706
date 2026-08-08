@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Ram%20Charan%20Teja&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Systems&descAlignY=55&descSize=20" width="100%"/>
 
 <p align="center">
-  <img src="https://github.com/Ramcharan1706.jpeg" width="150" height="150" style="border-radius:50%;" alt="Ram Charan Teja"/>
+  <img src="Ramcharan1706.jpeg" width="150" height="150" style="border-radius:50%;" alt="Ram Charan Teja"/>
 </p>
 
 <p align="center">
