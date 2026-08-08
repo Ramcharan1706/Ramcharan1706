@@ -5,7 +5,7 @@
 <table width="100%">
 <tr>
 <td width="30%" align="center">
-  <img src="Ramcharan1706.jpeg" width="220" style="border-radius:16px;border:3px solid #8E2DE2;" alt="Ram Charan Teja"/>
+  <img src="assets/profile.jpg" width="220" style="border-radius:16px;border:3px solid #8E2DE2;" alt="Ram Charan Teja"/>
 </td>
 <td width="70%">
 
@@ -28,10 +28,14 @@
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-1%2B%20Year-1a1a2e?style=flat-square&labelColor=8E2DE2"/>
+  <img src="https://img.shields.io/badge/Projects_Shipped-6%2B-1a1a2e?style=flat-square&labelColor=4A00E0"/>
+  <img src="https://img.shields.io/badge/Hackathons_Won-2-1a1a2e?style=flat-square&labelColor=8E2DE2"/>
+  <img src="https://img.shields.io/badge/Live_Users-500%2B-1a1a2e?style=flat-square&labelColor=4A00E0"/>
+</p>
 
-<!-- ===================== ABOUT ===================== -->
-## 🧬 About Me
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
 
 ```yaml
 name:       Cholleti Ram Charan Teja
@@ -100,6 +104,8 @@ On-chain smart contracts auto-execute conditional trading intents from live pric
 
 `Node.js` `React` `TypeScript` `WebSocket` `Prisma` `Algorand`
 
+<a href="https://github.com/Ramcharan1706/PitCrew" target="_blank"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
 </td>
 <td width="50%" valign="top">
 <img src="https://img.shields.io/badge/🦺_Safety_Monitor-Real--Time_CV_Pipeline-1a1a2e?style=for-the-badge&labelColor=4A00E0"/>
@@ -107,6 +113,8 @@ On-chain smart contracts auto-execute conditional trading intents from live pric
 PPE-compliance detection with per-worker safety scoring (0–100), timestamped violation logs, and a CSV-driven KPI dashboard.
 
 `Python` `YOLOv8` `OpenCV` `Streamlit`
+
+<a href="https://github.com/Ramcharan1706/Workplace-Safety-Monitor" target="_blank"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
@@ -118,6 +126,8 @@ PPE-compliance detection with per-worker safety scoring (0–100), timestamped v
 
 `Python` `Flask` `Gemini API` `Mermaid.js`
 
+<a href="https://github.com/Ramcharan1706/LearnSphere" target="_blank"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
 </td>
 <td width="50%" valign="top">
 <img src="https://img.shields.io/badge/🌐_TEDxKPRIT-Official_Event_Site-1a1a2e?style=for-the-badge&labelColor=8E2DE2"/>
@@ -125,6 +135,8 @@ PPE-compliance detection with per-worker safety scoring (0–100), timestamped v
 Designed & shipped end-to-end, 2 weeks ahead of schedule. 500+ visitors, zero downtime, 35% faster load via optimized Tailwind layouts.
 
 `React` `Tailwind CSS`
+
+<a href="https://github.com/Ramcharan1706/TEDxKPRIT" target="_blank"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
@@ -160,7 +172,7 @@ Designed & shipped end-to-end, 2 weeks ahead of schedule. 500+ visitors, zero do
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramcharan1706&theme=redical&bg_color=1a1a2e&color=A78BFA&line=8E2DE2&point=ffffff&hide_border=true" width="97%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramcharan1706&theme=radical&bg_color=1a1a2e&color=A78BFA&line=8E2DE2&point=ffffff&hide_border=true" width="97%"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
