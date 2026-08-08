@@ -5,7 +5,7 @@
 <table width="100%">
 <tr>
 <td width="30%" align="center">
-  <img src="Ramcharan1706.jpeg" width="220" style="border-radius:16px;border:3px solid #8E2DE2;" alt="Ram Charan Teja"/>
+  <img src="assets/profile.jpg" width="220" style="border-radius:16px;border:3px solid #8E2DE2;" alt="Ram Charan Teja"/>
 </td>
 <td width="70%">
 
@@ -168,7 +168,7 @@ Designed & shipped end-to-end, 2 weeks ahead of schedule. 500+ visitors, zero do
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramcharan1706&theme=radical&hide_border=true&background=1a1a2e&ring=8E2DE2&fire=A78BFA&currStreakLabel=A78BFA" />
+  <img src="https://streak-stats.demolab.com/?user=Ramcharan1706&theme=radical&hide_border=true&background=1a1a2e&ring=8E2DE2&fire=A78BFA&currStreakLabel=A78BFA" />
 </p>
 
 <p align="center">
@@ -194,7 +194,7 @@ Designed & shipped end-to-end, 2 weeks ahead of schedule. 500+ visitors, zero do
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!+📬+let's+build+something." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by%21+%F0%9F%93%AC+let%27s+build+something." />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=100&section=footer" width="100%"/>
