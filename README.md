@@ -1,30 +1,36 @@
-<!-- Animated wave header -->
+<!-- ===================== HEADER ===================== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Ram%20Charan%20Teja&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Systems&descAlignY=55&descSize=20" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+low-latency+real-time+systems;Full+Stack+Developer+%7C+DSA+%2B+OOP;Shipped+6%2B+production+apps+%7C+500%2B+users;2x+Hackathon+Winner+%F0%9F%8F%86" alt="Typing SVG" />
-</p>
+<!-- ===================== HERO: photo + intro side by side ===================== -->
+<table width="100%">
+<tr>
+<td width="30%" align="center">
+  <img src="Ramcharan1706.jpeg" width="220" style="border-radius:16px;border:3px solid #8E2DE2;" alt="Ram Charan Teja"/>
+</td>
+<td width="70%">
 
-<p align="center">
-  <a href="https://linkedin.com/in/cholleti-ram-charan-teja">
-    <img src="https://img.shields.io/badge/LinkedIn-connect-8E2DE2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/>
-  </a>
-  <a href="mailto:ramcharancholleti@gmail.com">
-    <img src="https://img.shields.io/badge/Email-say%20hi-4A00E0?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/>
-  </a>
-  <a href="https://github.com/Ramcharan1706">
-    <img src="https://img.shields.io/badge/GitHub-follow-6E2DE2?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/>
-  </a>
-</p>
+<h2>Hey, I'm Ram Charan 👋</h2>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ramcharan1706&label=Profile%20Views&color=8E2DE2&style=flat-square" alt="profile views"/>
-  <img src="https://img.shields.io/badge/Hyderabad,%20India-📍-1a1a2e?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Open%20to-Full%20Stack%20Roles-4A00E0?style=flat-square"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&width=520&lines=Building+low-latency+real-time+systems;Full+Stack+Developer+%7C+DSA+%2B+OOP;Shipped+6%2B+production+apps+%7C+500%2B+users;2x+Hackathon+Winner+%F0%9F%8F%86" alt="Typing SVG"/>
+
+<a href="https://linkedin.com/in/cholleti-ram-charan-teja" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="mailto:ramcharancholleti@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://github.com/Ramcharan1706" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://www.instagram.com/ramcharan_1706" target="_blank"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a2e"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Ramcharan1706&label=Profile%20Views&color=8E2DE2&style=flat-square" alt="profile views"/>
+<img src="https://img.shields.io/badge/📍-Hyderabad,%20India-1a1a2e?style=flat-square"/>
+<img src="https://img.shields.io/badge/Open%20to-Full%20Stack%20Roles-4A00E0?style=flat-square"/>
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
 
+<!-- ===================== ABOUT ===================== -->
 ## 🧬 About Me
 
 ```yaml
@@ -43,6 +49,7 @@ currently:  building PitCrew — on-chain DeFi automation
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
 
+<!-- ===================== TECH STACK ===================== -->
 ## ⚙️ Tech Arsenal
 
 <table width="100%">
@@ -50,32 +57,22 @@ currently:  building PitCrew — on-chain DeFi automation
 <td valign="top" width="50%">
 
 **Languages**
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,c" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=python,java,js,ts,c" /></p>
 
 **Frontend**
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=react,tailwind,html,css" /></p>
 
 **Backend**
-<p>
-<img src="https://skillicons.dev/icons?i=flask,django,nodejs,express,prisma" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=flask,django,nodejs,express,prisma" /></p>
 
 </td>
 <td valign="top" width="50%">
 
 **Databases**
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite" /></p>
 
 **Cloud & Tools**
-<p>
-<img src="https://skillicons.dev/icons?i=vercel,render,firebase,docker,git,githubactions,vscode" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=vercel,render,firebase,docker,git,githubactions,vscode" /></p>
 
 **Specialized**
 <p>
@@ -91,6 +88,7 @@ currently:  building PitCrew — on-chain DeFi automation
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
 
+<!-- ===================== PROJECTS ===================== -->
 ## 🚀 Featured Builds
 
 <table width="100%">
@@ -134,6 +132,7 @@ Designed & shipped end-to-end, 2 weeks ahead of schedule. 500+ visitors, zero do
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
 
+<!-- ===================== EXPERIENCE ===================== -->
 ## 💼 Experience Timeline
 
 ```text
@@ -148,6 +147,7 @@ Designed & shipped end-to-end, 2 weeks ahead of schedule. 500+ visitors, zero do
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
 
+<!-- ===================== STATS ===================== -->
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -164,6 +164,22 @@ Designed & shipped end-to-end, 2 weeks ahead of schedule. 500+ visitors, zero do
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
+
+<!-- ===================== SNAKE ===================== -->
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ramcharan1706/Ramcharan1706/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
+
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <a href="https://github.com/Ramcharan1706?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-8E2DE2?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!+📬+let's+build+something." />
