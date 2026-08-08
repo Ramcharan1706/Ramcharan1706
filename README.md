@@ -2,25 +2,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Ram%20Charan%20Teja&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Systems&descAlignY=55&descSize=20" width="100%"/>
 
 <p align="center">
-  <img src="Ramcharan1706.jpeg" width="150" height="150" style="border-radius:50%;" alt="Ram Charan Teja"/>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+low-latency+real-time+systems;Full+Stack+Developer+%7C+DSA+%2B+OOP;Shipped+6%2B+production+apps+%7C+500%2B+users;2x+Hackathon+Winner+%F0%9F%8F%86" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/cholleti-ram-charan-teja">
-    <img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/>
+    <img src="https://img.shields.io/badge/LinkedIn-connect-8E2DE2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/>
   </a>
   <a href="mailto:ramcharancholleti@gmail.com">
-    <img src="https://img.shields.io/badge/Email-say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/>
+    <img src="https://img.shields.io/badge/Email-say%20hi-4A00E0?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/>
   </a>
   <a href="https://github.com/Ramcharan1706">
-    <img src="https://img.shields.io/badge/GitHub-follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/>
-  </a>
-  <a href="https://www.instagram.com/ramcharan_1706">
-    <img src="https://img.shields.io/badge/Instagram-follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a2e"/>
+    <img src="https://img.shields.io/badge/GitHub-follow-6E2DE2?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/>
   </a>
 </p>
 
@@ -172,17 +165,8 @@ Designed & shipped end-to-end, 2 weeks ahead of schedule. 500+ visitors, zero do
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ramcharan1706/Ramcharan1706/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!+📬+let's+build+something." />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=100&section=footer" width="100%"/>
-
