@@ -5,7 +5,7 @@
 <table width="100%">
 <tr>
 <td width="30%" align="center">
-  <img src="assets/profile.jpg" width="220" style="border-radius:16px;border:3px solid #8E2DE2;" alt="Ram Charan Teja"/>
+  <img src="Ramcharan1706.jpeg" width="220" style="border-radius:16px;border:3px solid #8E2DE2;" alt="Ram Charan Teja"/>
 </td>
 <td width="70%">
 
