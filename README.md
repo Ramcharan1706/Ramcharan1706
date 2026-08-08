@@ -1,5 +1,7 @@
 <!-- ===================== HEADER : COMIC BANNER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ED1D24,50:1A1A2E,100:0F3460&height=200&text=RAM%20CHARAN%20TEJA&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=%3C%3C%20FULL%20STACK%20HERO%20%2F%2F%20SYSTEMS%20BUILDER%20%3E%3E&descAlignY=62&descSize=18&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ED1D24,50:1A1A2E,100:0F3460&height=200&text=RAM%20CHARAN%20TEJA&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=%F0%9F%95%B8%EF%B8%8F%20FULL%20STACK%20HERO%20%E2%80%A2%20SYSTEMS%20BUILDER%20%F0%9F%95%B8%EF%B8%8F&descAlignY=62&descSize=18&animation=twinkling" width="100%"/>
+
+<p align="center">🕸️ ・ 🕸️ ・ 🕸️ ・ 🕷️ ・ 🕸️ ・ 🕸️ ・ 🕸️</p>
 
 <!-- ===================== HERO : PHOTO + COMIC INTRO ===================== -->
 <table width="100%">
@@ -43,8 +45,22 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%" height="4px">
 
+<p align="center">
+
+```
+        ╲     |     ╱
+         ╲    |    ╱
+      ╲   ╲   |   ╱   ╱
+       ╲   ╲  |  ╱   ╱
+    ────╲───╲─┼─╱───╱────  🕸️
+         ╲   ╲|╱   ╱
+          ╲   |   ╱
+```
+
+</p>
+
 <!-- ===================== ORIGIN STORY ===================== -->
-## 🕷️ ORIGIN STORY
+## 🕷️ ORIGIN STORY 🕸️
 
 ```diff
 + Cholleti Ram Charan Teja — Software Engineer, Full Stack / Systems
@@ -62,7 +78,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%" height="4px">
 
 <!-- ===================== SKILL TREE ===================== -->
-## 🎮 SKILL TREE
+## 🎮 SKILL TREE 🕸️
 
 <table width="100%">
 <tr>
@@ -101,7 +117,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%" height="4px">
 
 <!-- ===================== BOSS BATTLES / PROJECTS ===================== -->
-## 🏆 BOSS BATTLES WON
+## 🏆 BOSS BATTLES WON 🕸️
 
 <table width="100%">
 <tr>
@@ -153,7 +169,7 @@ Designed & shipped end-to-end, 2 weeks ahead of schedule. 500+ visitors, zero do
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%" height="4px">
 
 <!-- ===================== MISSION LOG / EXPERIENCE ===================== -->
-## 📜 MISSION LOG
+## 📜 MISSION LOG 🕸️
 
 ```text
 [MISSION 03] Sep 2025 ─┬─ Web Development Lead, TEDxKPRIT
@@ -168,7 +184,7 @@ Designed & shipped end-to-end, 2 weeks ahead of schedule. 500+ visitors, zero do
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%" height="4px">
 
 <!-- ===================== BATTLE STATS ===================== -->
-## 📊 BATTLE STATS
+## 📊 BATTLE STATS 🕸️
 
 <p align="center">
   <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Ramcharan1706&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=ED1D24&icon_color=0F3460&text_color=e0e0e0" />
@@ -186,13 +202,15 @@ Designed & shipped end-to-end, 2 weeks ahead of schedule. 500+ visitors, zero do
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%" height="4px">
 
 <!-- ===================== BOSS FIGHT: THE SNAKE ===================== -->
-## 🐍 BOSS FIGHT: THE CONTRIBUTION SNAKE
+## 🐍 BOSS FIGHT: THE CONTRIBUTION SNAKE 🕸️
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ramcharan1706/Ramcharan1706/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%" height="4px">
+
+<p align="center">🕸️ ・ 🕷️ ・ 🕸️ ・ 🕸️ ・ 🕷️ ・ 🕸️</p>
 
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
